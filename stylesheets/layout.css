@@ -89,3 +89,11 @@ li + li {
 p:last-child {
   margin-bottom: 30px;
 }
+
+h2 + img {
+  margin-top: 20px;
+}
+
+#panoH {
+  text-align: center;
+}
