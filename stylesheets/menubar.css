@@ -2,12 +2,17 @@
   position: absolute;
   top: 0;
   left: 0;
+  width: 100%;
+
+}
+
+.menubar div {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
-  padding: 20px;
   height: 50px;
+  margin: 0 auto; 
+  padding: 20px;
 }
 
 .logo {
